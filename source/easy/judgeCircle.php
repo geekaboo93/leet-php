@@ -1,12 +1,11 @@
 <?php
-
 function judgeCircle($moves)
 {
-    $splited_moves = str_split($moves);
     $x = 0;
     $y = 0;
 
-    foreach ($splited_moves as $node => $move) {
+    for ($i = 0; $i < strlen($moves); $i++) {
+        $move = $moves[$i];
         if ($move == "U") {
             $y += 1;
         } else if ($move == "D") {
