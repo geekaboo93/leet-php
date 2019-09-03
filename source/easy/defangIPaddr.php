@@ -1,7 +1,11 @@
 <?php
 
 function defangIPaddr($address) {
-    return str_replace(".","[.]",$address);
+    $result = "";
+    for($i = 0; $i < strlen($address); $i++ )  {
+        $result .= $address[$i] == '.' ? '[.]' : $address[$i];
+    }
+    return $result;
 }
 
 $result = defangIPaddr("1.1.1.1");
