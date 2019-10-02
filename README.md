@@ -9,6 +9,8 @@ Will update this project from time to time. My solutions might not be perfect, f
 
 58   - [Length of Last Word](source/easy/lastWordLength.php)
 
+136  - [Single Number](source/easy/singleNumber.php)
+
 171  - [Excel Sheet Column Number](source/easy/excelColNum.php)
 
 198  - [House Robber](source/easy/houseRobber.php)
