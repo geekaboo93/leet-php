@@ -1,6 +1,10 @@
 <?php
+/**
+ * @param $emails
+ * @return int
+ */
 function numUniqueEmails($emails) {
-    $result = [];
+    $result = 0;
     if(count($emails) > 100 || count($emails) < 1) {
         return $result;
     }
