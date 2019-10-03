@@ -6,6 +6,7 @@ Will update this project from time to time. My solutions might not be perfect, f
 | NO. | Title |
 |----- | ------------- |
 |1.    | [Two Sum](source/easy/twoSum.php) |
+|13.   | [Roman to Integer](source/easy/romanToInt.php) |
 |26.   | [Remove Duplicates from Sorted Array](source/easy/removeDuplicates.php) |
 |58.   | [Length of Last Word](source/easy/lastWordLength.php) |
 |136.  | [Single Number](source/easy/singleNumber.php) |
