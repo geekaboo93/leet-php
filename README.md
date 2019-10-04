@@ -15,6 +15,7 @@ Will update this project from time to time. My solutions might not be perfect, f
 |500.  | [Keyboard Row](source/easy/keyboardRow.php) |
 |657.  | [Robot Return to Origin](source/easy/judgeCircle.php) |
 |709.  | [To Lower Case](source/easy/toLowerCase.php) |
+|728.  | [Self Dividing Numbers](source/easy/selfDividingNumbers.php) |
 |771.  | [Jewels and Stones](source/easy/numJewelsInStones.php) |
 |804.  | [Unique Morse Code Words](source/easy/uniqueMorseCode.php) |
 |832.  | [Flipping an Image](source/easy/flipAndInvertImage.php) |
