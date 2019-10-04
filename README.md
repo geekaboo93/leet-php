@@ -14,6 +14,7 @@ Will update this project from time to time. My solutions might not be perfect, f
 |198.  | [House Robber](source/easy/houseRobber.php) |
 |500.  | [Keyboard Row](source/easy/keyboardRow.php) |
 |657.  | [Robot Return to Origin](source/easy/judgeCircle.php) |
+|700.  | [Search in a Binary Search Tree](source/easy/searchBST.php) |
 |709.  | [To Lower Case](source/easy/toLowerCase.php) |
 |728.  | [Self Dividing Numbers](source/easy/selfDividingNumbers.php) |
 |771.  | [Jewels and Stones](source/easy/numJewelsInStones.php) |
