@@ -25,6 +25,7 @@ Will update this project from time to time. My solutions might not be perfect, f
 |929.  | [Unique Email Addresses](source/easy/numUniqueEmails.php) |
 |942.  | [DI String Match](source/easy/diStringMatch.php) |
 |961.  | [N-Repeated Element in Size 2N Array](source/easy/repeatedNTimes.php) |
+|977.  | [Squares of a Sorted Array](source/easy/sortedSquares.php) |
 |1021. | [Remove Outermost Parentheses](source/easy/removeOuterParentheses.php) |
 |1051. | [Height Checker](source/easy/heightChecker.php) |
 |1108. | [Defanging an IP Address](source/easy/defangIPaddr.php) |
