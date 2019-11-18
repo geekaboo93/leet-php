@@ -31,4 +31,5 @@ Will update this project from time to time. My solutions might not be perfect, f
 |1108. | [Defanging an IP Address](source/easy/defangIPaddr.php) |
 |1160. | [Find Words That Can Be Formed by Characters](source/easy/countCharacters.php) |
 |1207. | [Unique Number of Occurrences](source/easy/uniqueOccurrences.php) |
+|1221. | [Split a String in Balanced Strings](source/easy/balancedStringSplit.php) |
 |1252. | [Cells with Odd Values in a Matrix](source/easy/oddCells.php) |
