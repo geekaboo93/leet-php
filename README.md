@@ -12,6 +12,7 @@ Will update this project from time to time. My solutions might not be perfect, f
 |136.  | [Single Number](source/easy/singleNumber.php) |
 |171.  | [Excel Sheet Column Number](source/easy/excelColNum.php) |
 |198.  | [House Robber](source/easy/houseRobber.php) |
+|461.  | [House Robber](source/easy/hammingDistance.php) |
 |500.  | [Keyboard Row](source/easy/keyboardRow.php) |
 |657.  | [Robot Return to Origin](source/easy/judgeCircle.php) |
 |700.  | [Search in a Binary Search Tree](source/easy/searchBST.php) |
