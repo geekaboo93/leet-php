@@ -36,4 +36,5 @@ Will update this project from time to time. My solutions might not be perfect, f
 |1221. | [Split a String in Balanced Strings](source/easy/balancedStringSplit.php) |
 |1252. | [Cells with Odd Values in a Matrix](source/easy/oddCells.php) |
 |1295. | [Find Numbers with Even Number of Digits](source/easy/findNumbers.php) |
+|1281. | [Subtract the Product and Sum of Digits of an Integer](source/easy/subtractProductAndSum.php) |
 |1313. | [Decompress Run-Length Encoded List](source/easy/decompressRLElist.php) |
