@@ -5,14 +5,15 @@
  */
 function maximum69Number($num)
 {
-    $num = (string)$num;
+    $max = $num;
+    $str = (string)$num;
 
     $arr = [];
     $group = [];
 
-    array_push($group, $num);
-    for ($i = 0; $i < strlen($num); $i++) {
-        array_push($arr, (int)$num[$i]);
+    array_push($group, $str);
+    for ($i = 0; $i < strlen($str); $i++) {
+        array_push($arr, (int)$str[$i]);
     }
 
     foreach ($arr as $node => $val) {
@@ -23,13 +24,9 @@ function maximum69Number($num)
             }
         }
         $str = implode($temp);
-        array_push($group, $str);
-    }
 
-    $max = (int)$group[0];
-    foreach ($group as $value) {
-        if ((int)$value > $max) {
-            $max = (int)$value;
+        if((int) $str > $max) {
+            $max = (int)$str;
         }
     }
     return $max;
