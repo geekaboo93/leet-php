@@ -1,4 +1,5 @@
 <?php
+
 function countCharacters($words, $chars) {
     $result = 0;
     if(count($words) < 1 || strlen($chars) > 100) {
