@@ -3,44 +3,41 @@
  * @param Integer $num
  * @return Integer
  */
-function maximum69Number ($num) {
+function maximum69Number($num)
+{
     $num = (string)$num;
 
     $arr = [];
     $group = [];
-    $temp = [];
-    for($i = 0; $i < strlen($num); $i++) {
-       array_push($arr, (int)$num[$i]);
+
+    array_push($group, $num);
+    for ($i = 0; $i < strlen($num); $i++) {
+        array_push($arr, (int)$num[$i]);
     }
 
-    foreach($arr as $node => $val) {
+    foreach ($arr as $node => $val) {
         $temp = $arr;
-        for($i = 0; $i < strlen($num); $i++) {
-            if($i == $node) {
-                $temp[$i] = switch69($val);
+        for ($i = 0; $i < strlen($num); $i++) {
+            if ($i == $node) {
+                $temp[$i] = $val == 6 ? 9 : 6;
             }
         }
-        array_push($group,$temp);
+        $str = implode($temp);
+        array_push($group, $str);
     }
 
-    foreach($group as $array) {
-        $tmp = "";
-        foreach($array as $val) {
-            $tmp .=$val;
+    $max = (int)$group[0];
+    foreach ($group as $value) {
+        if ((int)$value > $max) {
+            $max = (int)$value;
         }
-]    }
-}
-
-function switch69($digit) {
-    if($digit == 6) {
-        return 9;
     }
-    return 6;
+    return $max;
 }
 
 $result = maximum69Number(9669);
-print($result."\n");
-//$result = maximum69Number(9996);
-//print($result."\n");
-//$result = maximum69Number(9999);
-//print($result."\n");
+print($result . "\n");
+$result = maximum69Number(9996);
+print($result . "\n");
+$result = maximum69Number(9999);
+print($result . "\n");
