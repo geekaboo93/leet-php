@@ -12,7 +12,7 @@ Will update this project from time to time. My solutions might not be perfect, f
 |136.  | [Single Number](source/easy/singleNumber.php) |
 |171.  | [Excel Sheet Column Number](source/easy/excelColNum.php) |
 |198.  | [House Robber](source/easy/houseRobber.php) |
-|461.  | [House Robber](source/easy/hammingDistance.php) |
+|461.  | [Hamming Distance](source/easy/hammingDistance.php) |
 |500.  | [Keyboard Row](source/easy/keyboardRow.php) |
 |561.  | [Array Partition I](source/easy/arrayPairSum.php) |
 |657.  | [Robot Return to Origin](source/easy/judgeCircle.php) |
@@ -37,4 +37,6 @@ Will update this project from time to time. My solutions might not be perfect, f
 |1252. | [Cells with Odd Values in a Matrix](source/easy/oddCells.php) |
 |1295. | [Find Numbers with Even Number of Digits](source/easy/findNumbers.php) |
 |1281. | [Subtract the Product and Sum of Digits of an Integer](source/easy/subtractProductAndSum.php) |
+|1304. | [Find N Unique Integers Sum up to Zero](source/easy/sumZero.php) |
+|1309. | [Decrypt String from Alphabet to Integer Mapping](source/easy/freqAlphabets.php) |
 |1313. | [Decompress Run-Length Encoded List](source/easy/decompressRLElist.php) |
