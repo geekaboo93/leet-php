@@ -35,9 +35,8 @@ Will update this project from time to time. My solutions might not be perfect, f
 |1207. | [Unique Number of Occurrences](source/easy/uniqueOccurrences.php) |
 |1221. | [Split a String in Balanced Strings](source/easy/balancedStringSplit.php) |
 |1252. | [Cells with Odd Values in a Matrix](source/easy/oddCells.php) |
-|1281. | [Subtract the Product and Sum of Digits of an Integer](source/easy/subtractProductAndSum.php) |
 |1295. | [Find Numbers with Even Number of Digits](source/easy/findNumbers.php) |
-|1299. | [Replace Elements with Greatest Element on Right Side](source/easy/replaceElements.php) |
+|1281. | [Subtract the Product and Sum of Digits of an Integer](source/easy/subtractProductAndSum.php) |
 |1304. | [Find N Unique Integers Sum up to Zero](source/easy/sumZero.php) |
 |1309. | [Decrypt String from Alphabet to Integer Mapping](source/easy/freqAlphabets.php) |
 |1313. | [Decompress Run-Length Encoded List](source/easy/decompressRLElist.php) |
